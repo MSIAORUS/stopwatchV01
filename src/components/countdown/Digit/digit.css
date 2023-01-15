@@ -1,0 +1,22 @@
+.borderDiv {
+  height: 80px;
+  width: 80px;
+  margin-top: 30px;
+  margin-left: 13px;
+  margin-bottom: 50px;
+  background: #efefef;
+  border: none;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  box-shadow: -6px -6px 14px rgba(255, 255, 255, 0.7),
+    -6px -6px 10px rgba(255, 255, 255, 0.5),
+    6px 6px 8px rgba(255, 255, 255, 0.075), 6px 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.heading {
+  font-size: 40px;
+  margin-top: 10px;
+  text-align: center;
+}
